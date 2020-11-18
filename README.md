@@ -30,21 +30,32 @@ In real terms this means;
 
 Being granted permission to send an email to a persons inbox should be treated as a priviledge, and we should respect their right to easily deny us that permission at any time and for any reason.
 
-This means we must provide an unsubscribe link within each email that is accessible to the recipient, this link should unsubscribe in *one click*, and not require any additional steps. 
+This means we must provide an unsubscribe link within each email that is accessible to the recipient, this link should unsubscribe in *one click* and not require any additional steps. 
 
 The link should be clear and purposeful by;
 - using clear language. "Click here to unsubscribe" is **good**, "Manage your preferences here" is **not**.
 - having a high contrast ratio. Don't hide your links by using light grey text on a white background. This is not cool.
 
-In addition, try to provide a machine-readable `List-Unsubscribe` header [RFC 2369]. This allows automated tools to help your recipients unsubscribe. 
+In addition, try to provide a machine-readable `List-Unsubscribe` header [RFC 2369](#3.1). This allows automated tools to help your recipients unsubscribe. 
+
+In case this doesn't go without saying, if a recipient unsubscribes from your mailing list then you should not send them another email from that address under any circumstances. This includes **an email confirming their unsubscribe**.
 
 ### 2.3. Make intent clear
 
-There should be no doubt why someone is receiving your email,
+There should be no doubt why a recipient is receiving your email, or how frequently they should expect it.
+
+We understand that recipients may forget that they signed up for your service, or to receive your newsletter (especially if it is not sent frequently), so make the intent of the email clear at the start. For example, by leading the content with the sentence "You are recieving this email because you signed up for an account on example.com".
+
+Newsletter creators, if you sent emails on a schedule then let your recipient know when they will receive your next email.
+
+
+### 2.4. No uneccesary tracking 
+
 
 
 # 3. Resources
 
+<a id="#3.1"></a>
 1. [RFC 2369 - 3.2 The List-Unsubscribe Header](https://www.ietf.org/rfc/rfc2369.txt)
 # Contribution
 
