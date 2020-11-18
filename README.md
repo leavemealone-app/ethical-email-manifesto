@@ -5,13 +5,13 @@ v0.1.1 - Draft
 ## 1. Preamble
   ### 1.1. Who is this for?
 
-  If you send an email newsletter, onboarding emails for your app or business, or any other form of recurring email subscription and want to make sure you are acting ethically on behalf of your recipients.
+  If you send an email newsletter, onboarding emails for your app or business, or any other form of recurring email subscription and want to make sure you are acting ethically on behalf of your recipients then this document is for you.
 
   ### 1.2. Why do we need this?
 
-  Unsolicited spam emails are easy to deal with automatically, we can block unknown senders, scan messages for certain keywords, or filter messages that come from specific IP addresses or locations. These are the mails that end up in your SPAM folder without you having to do anything.
+Unsolicited spam emails are easy to deal with automatically, we can block unknown senders, scan messages for certain keywords, or filter messages that come from specific IP addresses or locations. These are the mails that end up in your SPAM folder without you having to do anything.
 
-  However, many unwanted emails start out with our consent, but our interest in receiving them quickly diminishes over time - so called "graymail". This documnent specifies how we as senders should approach these kind of communications.  
+However, many unwanted emails start out with our consent, but our interest in receiving them quickly diminishes over time - so called "graymail". This documnent specifies how we as email senders should approach these kind of communications.  
   
 
 ## 2. Terms
@@ -61,7 +61,20 @@ If you wish to see if recipients are engaging with your emails, then provide act
 
 <a id="#3.1"></a>
 1. [RFC 2369 - 3.2 The List-Unsubscribe Header](https://www.ietf.org/rfc/rfc2369.txt)
-# Contribution
+<a id="#3.2"></a>
+2. [RFC 8058 - One-Click Unsubscribe Functionality](https://tools.ietf.org/html/rfc8058)
 
-The undersigned have agreed to abide by the terms of this document;
+
+# Contributing
+
+To offer suggestions or amendments to this document please open a PR or [raise an issue](https://github.com/leavemealone-app/ethical-email-manifesto/issues).
+
+# Partners
+
+The following companies or apps have agreed to act in accordance with this document;
+
+- [Leave Me Alone](https://leavemealone.app)
+
+[Add my company](https://github.com/leavemealone-app/ethical-email-manifesto/issues)
+
 
