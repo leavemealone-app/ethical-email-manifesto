@@ -22,8 +22,11 @@ Above all else, recurring emails should be opt-in, not a surprise.
 
 In real terms this means;
 
-- Newletter creators; if someone signed up for your monthly newsletter, then don't sometimes send them weekly without asking. 
-- App makers; a welcome email is okay, but don't automatically add a new user to your automated drip campaign of 10 onboarding emails. 
+- Newletter creators; 
+  - if someone signed up for your monthly newsletter, then don't sometimes send them weekly without asking. 
+
+- App makers; 
+  - a welcome email is okay, but don't automatically add a new user to your automated drip campaign of 10 onboarding emails. 
 
 
 ### 2.2. Let recipients easily unsubscribe
@@ -33,10 +36,13 @@ Being granted permission to send an email to a persons inbox should be treated a
 This means we must provide an unsubscribe link within each email that is accessible to the recipient, this link should unsubscribe in *one click* and not require any additional steps. 
 
 The link should be clear and purposeful by;
-- using clear language. "Click here to unsubscribe" is **good**, "Manage your preferences here" is **not**.
-- having a high contrast ratio. Don't hide your links by using light grey text on a white background. This is not cool.
+- using clear language. 
+  - "Click here to unsubscribe" is **good**
+  - "Manage your preferences here" is **not**.
+- having a high contrast ratio. 
+  - Don't hide your links by using light grey text on a white background. This is not cool.
 
-In addition, try to provide a machine-readable `List-Unsubscribe` header [RFC 2369](#3.1). This allows automated tools to help your recipients unsubscribe. 
+In addition, try to provide a machine-readable `List-Unsubscribe` header with every email ([RFC 2369](#3.1)). This allows automated tools to help your recipients unsubscribe. 
 
 In case this doesn't go without saying, if a recipient unsubscribes from your mailing list then you should not send them another email from that address under any circumstances. This includes **an email confirming their unsubscribe**.
 
