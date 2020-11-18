@@ -57,19 +57,19 @@ We know it's nice to see how many people are opening your emails, but since this
 
 If you wish to see if recipients are engaging with your emails, then provide actionable elements for them. For example, clicking a link in the email is easily measurable, shows engagement, and is less intrusive.
 
-# 3. Resources
+## 3. Resources
 
-<a id="#3.1"></a>
+<a id="3.1"></a>
 1. [RFC 2369 - 3.2 The List-Unsubscribe Header](https://www.ietf.org/rfc/rfc2369.txt)
-<a id="#3.2"></a>
+<a id="3.2"></a>
 2. [RFC 8058 - One-Click Unsubscribe Functionality](https://tools.ietf.org/html/rfc8058)
 
 
-# Contributing
+## 4. Contributing
 
 To offer suggestions or amendments to this document please open a PR or [raise an issue](https://github.com/leavemealone-app/ethical-email-manifesto/issues).
 
-# Partners
+## 5. Partners
 
 The following companies or apps have agreed to act in accordance with this document;
 
