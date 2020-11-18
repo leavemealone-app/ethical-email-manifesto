@@ -51,7 +51,11 @@ Newsletter creators, if you sent emails on a schedule then let your recipient kn
 
 ### 2.4. No uneccesary tracking 
 
+Emails should not contain spy-pixels/pixel-trackers or any other mechanism that measures open-rates.
 
+We know it's nice to see how many people are opening your emails, but since this tracking can be done without the consent of the recipient we consider it to be a ethical violation of privacy. Requiring recipients to disable images in their email client in order to not be tracked is not acceptable.
+
+If you wish to see if recipients are engaging with your emails, then provide actionable elements for them. For example, clicking a link in the email is easily measurable, shows engagement, and is less intrusive.
 
 # 3. Resources
 
