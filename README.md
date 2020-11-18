@@ -18,15 +18,12 @@ However, many unwanted emails start out with our consent, but our interest in re
 
 ### 2.1. Don't send unsolicited emails
 
-Above all else, recurring emails should be opt-in, not a surprise. 
+Above all else, recurring emails should be opt-in - they should not be a surprise. 
 
 In real terms this means;
 
-- Newletter creators; 
-  - if someone signed up for your monthly newsletter, then don't sometimes send them weekly without asking. 
-
-- App makers; 
-  - a welcome email is okay, but don't automatically add a new user to your automated drip campaign of 10 onboarding emails. 
+- Newletter creators, if someone signed up for your monthly newsletter, then don't sometimes send them weekly without asking. 
+- App makers, a welcome email is okay, but don't automatically add a new customer to your automated drip campaign of 10 onboarding emails. 
 
 
 ### 2.2. Let recipients easily unsubscribe
